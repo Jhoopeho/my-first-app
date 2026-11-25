@@ -16,7 +16,7 @@ export default function ProjectsPage() {
     <main className="p-8">
       <h1 className="text-3xl font-bold">Projects</h1>
       <p className="mt-2">
-        A few projects and ideas I have worked on or would like to build.
+        A few projects and ideas I have worked on or would like to build
       </p>
 
       <ul className="mt-4 list-disc space-y-2 pl-6">
